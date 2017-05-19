@@ -1,0 +1,53 @@
+.jt-custom {
+    background: #fff;
+    color: #111;
+}
+
+.jt-custom p {
+    font-family: 'Segoe UI', Helvetica, sans-serif
+}
+
+body {
+    font-family: 'Playfair Display', serif;  
+}
+
+.space-gradient {
+    background: #092e41;
+    color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a  {
+    color: #fff;
+    font-family: 'Segoe UI', Helvetica, sans-serif;
+}
+
+.navbar-nav > li {
+    padding: 0px 10px;
+}
+
+.navbar-default .navbar-nav > li > a:hover  {
+    color: #ddd;
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+
+::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #FfFfF5;
+}
+
+::-webkit-scrollbar
+{
+	width: 5px;
+	background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar-thumb
+{
+	background-color: #333;
+	border: 1px solid #555;
+    border-radius: 5px;    
+}
